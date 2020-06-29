@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.agrinfobotamharic.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>AgroInfoBot Amharic</name>
+
+  <description>
+      An agriculture bot in amharic
+  </description>
+
+  <author href="https://ytechub.com" email="ab.ashagrie@ytechub.com">
+      Abel
+  </author>
+
+ <icon src = "icon.png"/>
+</widget>
